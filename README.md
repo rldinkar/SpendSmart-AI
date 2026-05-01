@@ -1,9 +1,5 @@
-# AI Financial Coach Agent with Google ADK 💰
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-multi-agent-personal-finance-coach) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
-The **AI Financial Coach** is a personalized financial advisor powered by Google's ADK (Agent Development Kit) framework. This app provides comprehensive financial analysis and recommendations based on user inputs including income, expenses, debts, and financial goals.
+The **SpendSmart AI** is a personalized financial advisor powered by Google's ADK (Agent Development Kit) framework. This app provides comprehensive financial analysis and recommendations based on user inputs including income, expenses, debts, and financial goals.
 
 ## Features
 
@@ -79,4 +75,3 @@ Date,Category,Amount
 2024-01-03,Transportation,45.00
 ```
 
-A template CSV file can be downloaded directly from the application's sidebar.
